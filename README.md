@@ -1,2 +1,2 @@
-# cpp-QiYun
-Arbitrary modern C++ fun coding &amp; infrastructure 
+Simply arbitrary small coding projects and records in modern C++.
+
