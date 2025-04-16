@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 ni hao
-=======
-ni hao
->>>>>>> dev
+
